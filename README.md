@@ -163,4 +163,5 @@ Dfake_v1.0/
 
 ## Live Demo
 
-Check out the live version of our Deepfake Detection Website here: [Live Demo](https://dfake.pages.dev/)
+Check out the live version of our Deepfake Detection Website here: [Live Demo]
+https://dfake-apr.pages.dev/
