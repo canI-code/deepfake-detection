@@ -164,19 +164,3 @@ Dfake_v1.0/
 ## Live Demo
 
 Check out the live version of our Deepfake Detection Website here: [Live Demo](https://dfake.pages.dev/)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For any queries or suggestions, please reach out to the team members listed above.
-
----
-
-**Note**: This is an educational project for deepfake detection. Always verify results with multiple sources for critical applications.
